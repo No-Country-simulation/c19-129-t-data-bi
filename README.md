@@ -2,7 +2,7 @@
 # Nombre del proyecto: EligentIA
 ## Descripción del Dataset
 ### Utilizamos un dataset de Kaggle llamado ‘Credit Card Eligibility Data: Determining Factors’. Este conjunto de datos es una colección integral de variables destinadas a comprender los factores que influyen en la elegibilidad de un individuo para una tarjeta de crédito. Abarca una amplia gama de atributos demográficos, financieros y personales que las instituciones financieras comúnmente consideran al evaluar la idoneidad de un individuo para obtener crédito. Cada fila del conjunto de datos representa un individuo único, identificado por una identificación única, con atributos asociados que van desde información demográfica básica, como género y edad, hasta indicadores financieros como ingresos totales y situación laboral. Además, el conjunto de datos incluye variables relacionadas con el estado familiar, la vivienda, la educación y la ocupación, lo que proporciona una visión holística de los antecedentes y circunstancias del individuo.
-## Objetivo Principal
+### Objetivo Principal
 Desarrollar un modelo de machine learning capaz de predecir la elegibilidad de un individuo para obtener una tarjeta de crédito, utilizando atributos demográficos, financieros y personales.
 ## Sentido del Proyecto
 ### El proyecto busca mejorar el proceso de evaluación de solicitudes de tarjetas de crédito en las instituciones financieras. Al predecir la elegibilidad con mayor precisión, se pueden reducir los riesgos asociados con la emisión de crédito y mejorar la toma de decisiones.
